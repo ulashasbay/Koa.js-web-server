@@ -1,0 +1,22 @@
+{
+  "name": "koa.js-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulashasbay/Koa.js-web-server.git"
+  },
+  "author": "Ulaş Hasbay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulashasbay/Koa.js-web-server/issues"
+  },
+  "homepage": "https://github.com/ulashasbay/Koa.js-web-server#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
